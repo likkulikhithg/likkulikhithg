@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **likhith.aiml.rymec@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17sS81WUv8Uyf9KLYy6kILb0BCZD58pdX/view?usp=drivesdk](https://drive.google.com/file/d/17sS81WUv8Uyf9KLYy6kILb0BCZD58pdX/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17sS81WUv8Uyf9KLYy6kILb0BCZD58pdX/view?usp=drivesdk](https://drive.google.com/file/d/1VAWPg7Wk2KSigDQdQ3UT1D_M3jquR4_8/view?usp=sharing)
 
 - ⚡ Fun fact **I built my own AI-powered portfolio website before even graduating**
 
