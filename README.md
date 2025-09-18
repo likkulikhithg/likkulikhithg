@@ -1,18 +1,46 @@
-<h1 align="center">Hi 👋, I'm LIKHITH G</h1>
-<h3 align="center">AIML Student | Emerging AI Engineer | Python & ML Enthusiast</h3>
+# 👋 Hi, I’m Likhith G  
 
-- 🌱 I’m currently learning **Data structures using python**
+🎓 Final-year B.E. student in **Artificial Intelligence & Machine Learning** at RYMEC, VTU (CGPA: 7.7).  
+💻 Passionate about building intelligent systems with **Python, Machine Learning, Deep Learning, and Generative AI**.  
 
-- 💬 Ask me about **AI tools,AI agents and more**
+---
 
-- 📫 How to reach me **likkulikhithg@gmail.com**
+## 🚀 Projects
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EY9f6e1kTxyCAc6YqV07tFx-CuizGHSh/view?usp=drivesdk]
-- ⚡ Fun fact **I built my own AI-powered portfolio website before even graduating**
+- **Deepfake Detection using Transformers**  
+  Designed a transformer-based system to detect deepfake images and videos. Used OpenCV for frame extraction and preprocessing, achieving reliable classification between real and fake content.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Text Summarization (NLP)**  
+  Built an extractive and abstractive text summarization model using NLP techniques to generate concise summaries of long documents.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Generative AI Applications**  
+  Implemented multiple generative AI lab programs, exploring text generation, image synthesis, and prompt-based model outputs.  
+
+- **AI Model Deployment with Flask**  
+  Created a Flask-based web app to deploy trained ML models, providing a simple user interface for predictions and integration with cloud tools.  
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Python, C++  
+- **ML/DL Frameworks:** TensorFlow, PyTorch, scikit-learn, Hugging Face  
+- **Computer Vision:** OpenCV  
+- **NLP Tools:** Transformers, NLTK, spaCy  
+- **Tools:** Git, JupyterLab, Docker, Flask  
+- **Cloud & Web:** Basics of AWS, React, TailwindCSS  
+
+---
+
+## 📌 Featured Links
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/likkulikhithg)  
+- 🔗 [GitHub](https://github.com/likkulikhithg)  
+- 🔗 [Portfolio Website](#) (CareerCraft.in 🚀 Coming soon)  
+
+---
+
+## 📫 Contact
+
+📧 Email: **likkulikhithg@gmail.com**  
+  
