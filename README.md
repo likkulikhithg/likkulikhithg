@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Likhith G  
 
-🎓 Final-year B.E. student in **Artificial Intelligence & Machine Learning** at RYMEC, VTU (CGPA: 7.7).  
+🎓 Final-year B.E. student in **Artificial Intelligence & Machine Learning** at RYMEC, VTU.  
 💻 Passionate about building intelligent systems with **Python, Machine Learning, Deep Learning, and Generative AI**.  
 
 ---
