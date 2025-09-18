@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm LIKHITH G</h1>
 <h3 align="center">AIML Student | Emerging AI Engineer | Python & ML Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data structures using python, Power BI using python**
+- 🌱 I’m currently learning **Data structures using python**
 
 - 💬 Ask me about **AI tools,AI agents and more**
 
-- 📫 How to reach me **likhith.aiml.rymec@gmail.com**
+- 📫 How to reach me **likkulikhithg@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17sS81WUv8Uyf9KLYy6kILb0BCZD58pdX/view?usp=drivesdk](https://drive.google.com/file/d/1VAWPg7Wk2KSigDQdQ3UT1D_M3jquR4_8/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EY9f6e1kTxyCAc6YqV07tFx-CuizGHSh/view?usp=drivesdk]
 - ⚡ Fun fact **I built my own AI-powered portfolio website before even graduating**
 
 <h3 align="left">Connect with me:</h3>
