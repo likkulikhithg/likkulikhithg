@@ -111,6 +111,4 @@ likhith = {
 
 *"I didn't start with a textbook — I started with a question: How do you teach a machine to spot a lie?"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=likkulikhithg&color=378ADD&style=flat-square)
-
 </div>
